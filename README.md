@@ -3,15 +3,15 @@ This project applies Natural Language Processing (NLP) and Machine Learning tech
 
 📌 Project Overview
 
-Product reviews contain valuable customer feedback. By performing sentiment analysis, businesses can:
+- Product reviews contain valuable customer feedback. By performing sentiment analysis, businesses can:
 
-Understand customer satisfaction levels
+- Understand customer satisfaction levels
 
-Identify negative trends early
+- Identify negative trends early
 
-Improve product and service quality
+- Improve product and service quality
 
-This project uses Python and machine learning libraries to preprocess text, train a sentiment classifier, and evaluate model performance.
+- This project uses Python and machine learning libraries to preprocess text, train a sentiment classifier, and evaluate model performance.
 
 🚀 Features
 
@@ -23,12 +23,12 @@ This project uses Python and machine learning libraries to preprocess text, trai
 
 🛠️ Tech Stack
 
-Python 3.9+
+- Python 3.9+
 
-NLTK / spaCy – Text preprocessing
+- NLTK / spaCy – Text preprocessing
 
-scikit-learn – Model training & evaluation
+- scikit-learn – Model training & evaluation
 
-Streamlit - Frontend
+- Streamlit - Frontend
 
-Pandas, NumPy – Data handling
+- Pandas, NumPy – Data handling
